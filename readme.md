@@ -15,7 +15,7 @@ proposed Structure:
 # BANK VAULT PROPOSAL
 Inspired to make this kit as Andy told me he wanted to do a bank vault project with a password. I wanted to make the lesson plan have a concept as a preface to something kids do with their hands focusing on teaching to think like engineers, then practicing doing that engineering and using that hands on work to help them catch up to some more grand concept. I think this approach is a great way to perhaps bridge younger kids to more difficult/time consuming projects shows very well how to break down a project into smaller ones. Made this doc especially because of the confusion/lack not a great teaching plan with the catapult project. 
 
-##Kits features 
+## Kit features 
 I want to make this kit modular and fit with other kits.
 
 - TOP is a coin sorter (DESIGNED), you can slide a coin in it drops into one spot for each coin
@@ -24,7 +24,7 @@ I want to make this kit modular and fit with other kits.
 
 - Coin Trays (slide in), uses load cells to measure num Coins as they drop in directly from the coin sorter
 ## Teaching Timeline
-1. Day 1: CAD + manufacturing + money
+1. **Day 1: CAD + manufacturing + money**
 	* Present them with top half of kit which is the coin sorter
 	* Teach them budgeting/saving (prolly one or 2 slides at most)
 	* Engineering principles		
@@ -42,7 +42,7 @@ I want to make this kit modular and fit with other kits.
 		- Design the slide in plate mechanism with custom lettering/design in tinkerCAD
 		- Needs to understand the kind of fit they are making, we give them what our tolerances are for laser/print and the rest is easy
 	* Play with the coin sorter
-2. Day 2: Systems + personal Security
+2. **Day 2: Systems + personal Security**
 	* Present them with the second half of the kit, the Security/Vault Assembly
 	* Teach them abt systems Engineering design principles
 		- Introduce Systems engineering
@@ -64,7 +64,7 @@ I want to make this kit modular and fit with other kits.
 		- Enter a password using buttons or biometric or maybe an NFC password key would be cool etc.
 		- Use micro servo locks
 		- Their own failsafe in case they can’t access, let them design the algorithm and you help them with implementation
-3. Day 3: Software principles, Metrology
+3. **Day 3: Software principles, Metrology**
 	* Engineering principles
 		- Datastructures: Arrays OR linear equations (y=mx+b)
 			- M ex: weight of coin
@@ -88,7 +88,7 @@ I want to make this kit modular and fit with other kits.
 		- Using load cells to figure out how many coins there are
 		- Finishing what we started last time
 		- Mathematics in Code
-4. Day 4: summary, finishing things
+4. **Day 4: summary, finishing things**
 	* Summarize engineering concepts (one slide each)
 		- Metrology + error (how + why we create band for measured weights -> coins
 		- Engineering as a system (kit is split into modular parts)
